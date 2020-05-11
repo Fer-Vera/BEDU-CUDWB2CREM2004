@@ -1,0 +1,130 @@
+.caja-grande {
+  height: 100px;
+  width: 200px;
+  border: 2px ;
+  padding: 10px 20px 10px 20px;
+  margin: 10px 20px 10px 20px;
+
+  text-align: center;
+}
+
+.caja-grande p {
+  margin-top: 40px;
+}
+
+body {
+  margin: 0;
+}
+
+.caja-mediana {
+  height: 80px;
+  width: 860px;
+  border: 2px ;
+  padding: 10px 20px 10px 20px;
+  margin: 10px 20px 10px 20px;
+  display: inline-block;
+  text-align: center;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+
+.caja-peque {
+  height: 10px;
+  width: 60px;
+  border: 2px ;
+  padding: 10px 20px 10px 20px;
+  margin: 10px 20px 10px 20px;
+  display: inline-block;
+  text-align: center;
+}
+.caja-peque p {
+  margin-top: 1px;
+  box-align: rigth;
+}
+.caja-dos {
+  height: 30px;
+  width: 860px;
+  border: 2px ;
+  padding: 10px 20px 10px 20px;
+  margin: 10px 20px 10px 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  text-size-adjust: 0.58;
+  font-size: 35px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  display: flex;
+  align-items: center;
+}
+.caja-tres {
+  height: 15px;
+  width: 860px;
+  border: 2px ;
+
+  padding: 1px 20px 1px 20px;
+  margin: 1px 20px 1px 20px;
+  text-align: center;
+  text-size-adjust: 0.1;
+  margin-top: 0px;
+  
+  
+  display: flex;
+  align-items: center;
+  align-content: center;
+  
+}
+p.tipo_est {
+
+  color: black;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+font-size: smaller;
+}
+.caja-cuatro {
+  height: 200px;
+  width: 860px;
+  border: 2px ;
+  padding: 1px 20px 1px 20px;
+  margin: 1px 20px 1px 20px;
+  text-align: center;
+  text-size-adjust: 0.1;
+  margin-top: 0px;
+  
+  
+  align-items: center;
+  align-content: center;
+  
+}
+p.tipo_est2 {
+
+  color: black;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+font-size: xxx-large;
+}
+.caja-cinco {
+  height: 100px;
+  width: 860px;
+  border: 2px ;
+  padding: 1px 20px 1px 20px;
+  margin: 1px 20px 1px 20px;
+  text-align: center;
+  text-size-adjust: 0.1;
+  margin-top: 0px;
+  
+  display: flex;
+  align-items: center;
+  align-content: center;
+  
+}
+p.tipo_est3 {
+  color: black;
+  text-align: right
+
+}
+p.tipo_est4 {
+  color: gray;
+  text-align: right
+  font-size: X-smaller
+
+}
